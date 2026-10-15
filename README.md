@@ -1,5 +1,8 @@
 # Mesa360 — Sistema de Gestión para Restaurantes
 
+Enlace de demostración:
+https://drive.google.com/file/d/1XRWb_XkVbKrU7wMVGgRq0iYq75M9yCAW/view?usp=sharing
+
 Mesa360 es un sistema web de gestión para restaurantes desarrollado como proyecto académico. Permite centralizar las principales operaciones del restaurante desde una interfaz accesible mediante el navegador.
 
 ## Tecnologías utilizadas
